@@ -1,2 +1,7 @@
 # README
-👩‍🔬 MS-based proteomic scientist | PhD in Chemistry   🔬 Postdoc @ Proteomic Unit, UFRJ   💻 R enthusiast   ✨ Sci-fi/fantasy nerd • Manga/anime fan   🏕️ Hiker, chess player, bookworm  
+- 👋 Hi, I’m @la900415
+- 👀 I’m interested in Mass Spec and Proteomics
+- 🌱 I’m currently learning Bioinformatics and R language
+- 💞️ I’m looking to collaborate on proteomics and protein chemistry research
+- 📫 How to reach me: la900415@gmail.com
+- ⚡ Fun fact: Mass spectrometry is like detective work for molecules! 🕵️‍♂️
